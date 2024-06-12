@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Developer
 -----------------
 
-Hello, I'm Isaac- Student Developer and Project Enthusiast I'm a dedicated student developer who is not just limited to the classroom. Beyond my college curriculum, I spend my free time immersed in the world of coding, turning ideas into tangible projects. Currently pursuing B.E. Artificial Intelligence and machine learning at S A Engineering College, my journey in software development extends well beyond the classroom walls. What I've Been Up To: - Created a series of web applications, exploring the realms of full-stack development. - Delved into mobile app development, crafting intuitive solutions with a focus on user experience. - Developed innovative projects using \[Your Preferred Tech Stack\], combining creativity with functionality.
+Hello, I'm Isaac- Student Developer and Project Enthusiast I'm a dedicated student developer who is not just limited to the classroom. Beyond my college curriculum, I spend my free time immersed in the world of coding, turning ideas into tangible projects. Currently pursuing B.E. Artificial Intelligence and machine learning at S A Engineering College, my journey in software development extends well beyond the classroom walls. What I've Been Up To: - Created a series of web applications, exploring the realms of full-stack development. - Delved into mobile app development, crafting intuitive solutions with a focus on user experience.
 
 * 🌍  I'm based in chennai
 * ✉️  You can contact me at [isaacsam837@gmail.com](mailto:isaacsam837@gmail.com)
